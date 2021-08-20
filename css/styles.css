@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 13px;
+}
+:root{
+    --Azul: #2855AE;
+
+    --h1: 24rem;
+    --h2: 10rem;
+}
+.backgroud_section{
+    width: 100%;
+}
+.section-body{
+    max-width: 130rem;
+    height: auto; 
+    margin: auto;
+}
